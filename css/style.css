@@ -52,7 +52,9 @@ img{
    height: auto;
 }
 
-
+li{
+   
+}
 
 /*------------------------HEADER------------------------*/
 header{
@@ -265,9 +267,10 @@ header{
 }
 
 .project-technology{
-   display: inline;
+   display: inline-block;
    background-color: rgb(0, 236, 158);
    color: black;
+   margin-bottom: 2rem;
    padding: 0.5rem;
    border-radius: 0.5rem;
 }
